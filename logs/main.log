@@ -1,0 +1,17 @@
+2020-02-10 14:08:49,714 +0530 [main] DEBUG (Log4jExample.java:15) - My debug loh
+2020-02-10 14:08:49,716 +0530 [main] INFO  (Log4jExample.java:16) - My info log
+2020-02-10 14:08:49,718 +0530 [main] DEBUG (MathUtils.java:10) - inputs are : 4 5
+2020-02-10 14:10:01,132 +0530 [main] DEBUG (Log4jExample.java:15) - My debug log
+2020-02-10 14:10:01,135 +0530 [main] INFO  (Log4jExample.java:16) - My info log
+2020-02-10 14:10:01,138 +0530 [main] DEBUG (MathUtils.java:10) - inputs are : 4 5
+2020-02-10 14:10:25,783 +0530 [main] DEBUG (Log4jExample.java:15) - My debug log
+2020-02-10 14:10:25,785 +0530 [main] INFO  (Log4jExample.java:16) - My info log
+2020-02-10 14:10:25,787 +0530 [main] DEBUG (MathUtils.java:10) - inputs are : 4 5
+2020-02-10 14:10:25,789 +0530 [main] DEBUG (MathUtils.java:10) - inputs are : 3 4
+2020-02-10 14:10:25,789 +0530 [main] DEBUG (MathUtils.java:10) - inputs are : 4 5
+2020-02-10 14:11:45,327 +0530 [main] DEBUG (Log4jExample.java:15) - My debug log
+2020-02-10 14:11:45,329 +0530 [main] INFO  (Log4jExample.java:16) - My info log
+2020-02-10 14:11:45,329 +0530 [main] WARN  (Log4jExample.java:17) - My Warn Log
+2020-02-10 14:11:45,331 +0530 [main] DEBUG (MathUtils.java:10) - inputs are : 4 5
+2020-02-10 14:11:45,331 +0530 [main] DEBUG (MathUtils.java:10) - inputs are : 3 4
+2020-02-10 14:11:45,331 +0530 [main] DEBUG (MathUtils.java:10) - inputs are : 4 5
